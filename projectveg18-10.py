@@ -1,6 +1,6 @@
 print('*' * 5, 'WELCOME TO VEGETABLE MARKET', '*' * 5)
 
-# Initializing data or variables
+# Initializing data or variables and datastructures
 vegetables = ['brinjal', 'tomato', 'drumstick', 'onion']
 quantity = [10, 35, 10, 50]
 cost_price = [30, 15, 30, 20]
